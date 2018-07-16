@@ -1,0 +1,11 @@
+Dich vu data movie api mien phi: http://www.omdbapi.com/
+
+Ban can phai dang ki mot API Key truoc khi su dung tai dây: http://www.omdbapi.com/apikey.aspx
+
+Ban chon vào ô "FREE! (1,000 daily limit)", và dien email cua ban o duoi.
+
+Se co mot email gui cho ban API key.
+
+Sau do de goi bat cu API nao trên OMDB thi ban can truyen them vao parameter la "apikey=[KEY_CUA_BAN]"
+
+Vi du: http://www.omdbapi.com/?s=hacker&apikey=cf187c8d
